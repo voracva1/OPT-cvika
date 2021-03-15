@@ -1,7 +1,5 @@
 # OPT-cvika
-cviko - nahráváno při cvičení
-
-samostatne - nahráváno mimo cviko
+cviko - nahráváno při cvičení, samostatne - nahráváno mimo cviko
 
 samostatne 8.3 [internal](https://bbb04.felk.cvut.cz//playback/presentation/2.0/playback.html?meetingId=b4d6b872853ce3869177366b89c9aff4c8cd4fd9-1615398473184)
 [mp4](https://bbb04.felk.cvut.cz//presentation/b4d6b872853ce3869177366b89c9aff4c8cd4fd9-1615398473184/b4d6b872853ce3869177366b89c9aff4c8cd4fd9-1615398473184.mp4)
