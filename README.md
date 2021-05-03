@@ -1,6 +1,8 @@
 # OPT-cvika
 cviko - nahráváno při cvičení, samostatne - nahráváno mimo cviko
 
+cviko 26.4 [internal](https://bbb04.felk.cvut.cz//playback/presentation/2.0/playback.html?meetingId=344775a74b01df72bbf0a241745094c979c2c02f-1619420402028)
+[mp4](https://bbb04.felk.cvut.cz//presentation/344775a74b01df72bbf0a241745094c979c2c02f-1619420402028/344775a74b01df72bbf0a241745094c979c2c02f-1619420402028.mp4)
 cviko 19.4 [internal](https://bbb04.felk.cvut.cz//playback/presentation/2.0/playback.html?meetingId=f70b1b7992353dc43b2c9795120054f2f589e7b4-1618815601987)
 [mp4](https://bbb04.felk.cvut.cz//presentation/f70b1b7992353dc43b2c9795120054f2f589e7b4-1618815601987/f70b1b7992353dc43b2c9795120054f2f589e7b4-1618815601987.mp4)
 
